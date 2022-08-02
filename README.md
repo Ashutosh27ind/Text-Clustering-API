@@ -11,6 +11,6 @@ Deployment using Dcoker and Flask API.
 5. Access http://localhost:8180/apidocs/index.html from your browser [assuming you are on windows. Otherwise just use IP of docker machine]  
 
   
-![alt text](https://github.com/Ashutosh27ind/Text-Clustering-API/blob/main/docs/Capture.PNG?raw=true)
+![alt text](https://github.com/Ashutosh27ind/Text-Clustering-API/blob/main/Capture.PNG?raw=true)
 
 
