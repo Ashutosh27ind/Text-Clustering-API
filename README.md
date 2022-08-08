@@ -1,6 +1,6 @@
 # Text-Clustering-API
 Implementation of a text clustering algorithm using Kmeans clustering in order to derive quick insights from unstructured text.  
-Deployment using Dcoker and Flask API.
+Deployment using Docker and Flask API.
 
 ## Docker Setup
 0. Install [Docker](https://docs.docker.com/engine/installation/)
